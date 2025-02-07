@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [www.itmeter.ir](www.itmeter.ir)
 
-- 📫 How to reach me **pooryafayazi65@gmailcom**
+- 📫 How to reach me **fayazipoorya@gmailcom**
 
 - 📄 Know about my experiences [www.itmeter.ir/about](www.itmeter.ir/about)
 
