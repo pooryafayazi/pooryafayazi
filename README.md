@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pooryafayazi" alt="pooryafayazi" /></a> </p>
 
-- 📝 I regularly write articles on [www.itmeter.ir](www.itmeter.ir)
+- 📝 I regularly write articles on www.itmeter.ir
 
 - 📫 How to reach me **fayazipoorya@gmailcom**
 
