@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **fayazipoorya@gmailcom**
 
-- 📄 Know about my experiences [www.itmeter.ir/about](www.itmeter.ir/about)
+- 📄 Know about my experiences www.itmeter.ir/about
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
