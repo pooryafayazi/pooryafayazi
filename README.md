@@ -18,14 +18,14 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
-<p style="display:flex !important; flex-wrap:wrap !important; gap:8px !important;">
-<a href="https://dev.to/pooryafayazi" target="blank"><img style="display:inline-block !important;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pooryafayazi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pooryafayazi" target="blank"><img  style="display:inline-block !important;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pooryafayazi" height="30" width="40" /></a>
-<a href="https://codesandbox.com/pooryafayazi" target="blank"><img  style="display:inline-block !important;" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="pooryafayazi" height="30" width="40" /></a>
-<a href="https://kaggle.com/pooryafayazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pooryafayazi" height="30" width="40" /></a>
-<a href="https://instagram.com/pooryafayazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pooryafayazi" height="30" width="40" /></a>
-<a href="https://medium.com/@pooryafayazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pooryafayazi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pooryafayazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pooryafayazi" height="30" width="40" /></a>
+<p align="left">
+<a href="https://dev.to/pooryafayazi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pooryafayazi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pooryafayazi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pooryafayazi" height="30" width="40" /></a>
+<a href="https://codesandbox.com/pooryafayazi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="pooryafayazi" height="30" width="40" /></a>
+<a href="https://kaggle.com/pooryafayazi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pooryafayazi" height="30" width="40" /></a>
+<a href="https://instagram.com/pooryafayazi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pooryafayazi" height="30" width="40" /></a>
+<a href="https://medium.com/@pooryafayazi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pooryafayazi" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/pooryafayazi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pooryafayazi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
