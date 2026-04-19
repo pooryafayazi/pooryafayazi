@@ -19,13 +19,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <span>
-<a href="https://dev.to/pooryafayazi" target="blank"><img style="display:inline-block !important" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pooryafayazi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pooryafayazi" target="blank"><img style="display:inline-block !important" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pooryafayazi" height="30" width="40" /></a>
-<a href="https://codesandbox.com/pooryafayazi" target="blank"><img style="display:inline-block !important" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="pooryafayazi" height="30" width="40" /></a>
-<a href="https://kaggle.com/pooryafayazi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pooryafayazi" height="30" width="40" /></a>
-<a href="https://instagram.com/pooryafayazi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pooryafayazi" height="30" width="40" /></a>
-<a href="https://medium.com/@pooryafayazi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pooryafayazi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pooryafayazi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pooryafayazi" height="30" width="40" /></a>
+<a href="https://dev.to/pooryafayazi" target="blank">
+  <span>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pooryafayazi" height="30" width="40" />
+  </span>
+</a>
+<a href="https://linkedin.com/in/pooryafayazi" target="blank"> <span><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pooryafayazi" height="30" width="40" /> </span></a>
+<a href="https://codesandbox.com/pooryafayazi" target="blank"> <span><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="pooryafayazi" height="30" width="40" /> </span></a>
+<a href="https://kaggle.com/pooryafayazi" target="blank"> <span><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pooryafayazi" height="30" width="40" /> </span></a>
+<a href="https://instagram.com/pooryafayazi" target="blank"> <span><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pooryafayazi" height="30" width="40" /> </span></a>
+<a href="https://medium.com/@pooryafayazi" target="blank"> <span><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pooryafayazi" height="30" width="40" /> </span></a>
+<a href="https://www.leetcode.com/pooryafayazi" target="blank"> <span><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pooryafayazi" height="30" width="40" /> </span></a>
 </span>
 
 <h3 align="left">Languages and Tools:</h3>
