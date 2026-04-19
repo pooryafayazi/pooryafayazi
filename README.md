@@ -18,16 +18,82 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://dev.to/pooryafayazi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pooryafayazi" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/pooryafayazi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pooryafayazi" height="30" width="40" /></a>
+  <a href="https://codesandbox.com/pooryafayazi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="pooryafayazi" height="30" width="40" /></a>
+  <a href="https://kaggle.com/pooryafayazi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pooryafayazi" height="30" width="40" /></a>
+  <a href="https://instagram.com/pooryafayazi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pooryafayazi" height="30" width="40" /></a>
+  <a href="https://medium.com/@pooryafayazi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pooryafayazi" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/pooryafayazi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pooryafayazi" height="30" width="40" /></a>
+</p>
 
-<a href="https://dev.to/pooryafayazi" target="blank">  <span>    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pooryafayazi" height="30" width="40" />  </span></a><a href="https://linkedin.com/in/pooryafayazi" target="blank"> <span><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pooryafayazi" height="30" width="40" /> </span></a><a href="https://codesandbox.com/pooryafayazi" target="blank"> <span><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="pooryafayazi" height="30" width="40" /> </span></a><a href="https://kaggle.com/pooryafayazi" target="blank"> <span><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pooryafayazi" height="30" width="40" /> </span></a><a href="https://instagram.com/pooryafayazi" target="blank"> <span><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pooryafayazi" height="30" width="40" /> </span></a><a href="https://medium.com/@pooryafayazi" target="blank"> <span><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pooryafayazi" height="30" width="40" /> </span></a><a href="https://www.leetcode.com/pooryafayazi" target="blank"> <span><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pooryafayazi" height="30" width="40" /> </span></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/pooryafayazi)
-[![Dev.to](https://img.shields.io/badge/Dev.to-black?logo=dev.to)](https://dev.to/pooryafayazi)
-[![Kaggle](https://img.shields.io/badge/Kaggle-blue?logo=kaggle)](https://kaggle.com/pooryafayazi)
+<!-- Dev.to -->
+<a href="https://dev.to/pooryafayazi" target="_blank">
+<svg width="40" height="30" viewBox="0 0 256 256">
+<path fill="#0A0A0A" d="M0 32v192h256V32zm67.7 40H91v112H67.7a23.7 23.7 0 0 1-23.7-23.7V95.7A23.7 23.7 0 0 1 67.7 72zm80.1 0h39.8c13 0 23.6 10.6 23.6 23.6v64.8c0 13-10.6 23.6-23.6 23.6h-39.8zm-48.7 0h31.8c13 0 23.6 10.6 23.6 23.6v64.8c0 13-10.6 23.6-23.6 23.6H99.1z"/>
+</svg>
+</a>
+
+<!-- LinkedIn -->
+<a href="https://linkedin.com/in/pooryafayazi" target="_blank">
+<svg width="40" height="30" viewBox="0 0 128 128">
+<path fill="#0076b2" d="M21.7 5.6c8 0 14.6 6.5 14.6 14.5S29.7 34.6 21.7 34.6S7 28 7 20 13.5 5.6 21.7 5.6zM7.6 43.4H36v80H7.6zM47.7 43.4H75v11.1h.4c3.8-7.2 13.2-14.8 27.2-14.8C123 39.7 128 59 128 82.5V123h-28.2V86.2c0-8.8-.2-20.2-12.3-20.2c-12.3 0-14.2 9.6-14.2 19.6V123H47.7z"/>
+</svg>
+</a>
+
+<!-- CodeSandbox -->
+<a href="https://codesandbox.com/pooryafayazi" target="_blank">
+<svg width="40" height="30" viewBox="0 0 256 256">
+<path fill="#000" d="M128 0l110 63v126l-110 63L18 189V63z"/>
+<path fill="#FFF" d="M128 34l76 44v100l-76 44l-76-44V78z"/>
+</svg>
+</a>
+
+<!-- Kaggle -->
+<a href="https://kaggle.com/pooryafayazi" target="_blank">
+<svg width="40" height="30" viewBox="0 0 256 256">
+<path fill="#20BEFF" d="M72 32v192h32v-82l74 82h40l-84-92l84-100h-40l-74 88V32z"/>
+</svg>
+</a>
+
+<!-- Instagram -->
+<a href="https://instagram.com/pooryafayazi" target="_blank">
+<svg width="40" height="30" viewBox="0 0 256 256">
+<radialGradient id="g" cx="0.5" cy="0.5" r="0.75">
+<stop offset="0%" stop-color="#fdf497"/>
+<stop offset="50%" stop-color="#fd5949"/>
+<stop offset="100%" stop-color="#d6249f"/>
+</radialGradient>
+<rect width="256" height="256" rx="60" fill="url(#g)"/>
+<circle cx="128" cy="128" r="48" fill="#FFF"/>
+<circle cx="188" cy="68" r="16" fill="#FFF"/>
+</svg>
+</a>
+
+<!-- Medium -->
+<a href="https://medium.com/@pooryafayazi" target="_blank">
+<svg width="40" height="30" viewBox="0 0 256 256">
+<path fill="#000" d="M0 32v192h256V32zm70 52l-44 68l44 68zm16 0l56 68l-56 68zm120 0v136h-32V84z"/>
+</svg>
+</a>
+
+<!-- LeetCode -->
+<a href="https://www.leetcode.com/pooryafayazi" target="_blank">
+<svg width="40" height="30" viewBox="0 0 256 256">
+<path fill="#FFA116" d="M96 128l54-54l14 14l-40 40l40 40l-14 14z"/>
+<path fill="#000" d="M160 182c-30 30-78 30-108 0s-30-78 0-108s78-30 108 0l-14 14c-22-22-58-22-80 0s-22 58 0 80s58 22 80 0z"/>
+</svg>
+</a>
+
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display:flex; flex-wrap:wrap; gap:8px;"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pooryafayazi&show_icons=true&locale=en&layout=compact" alt="pooryafayazi" /></p> -->
 
