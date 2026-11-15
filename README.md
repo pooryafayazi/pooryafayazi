@@ -157,7 +157,7 @@
       </p>
     </td>
     <td width="50%">
-      <h3>My GitHub contributions summary</h3>
+      <h3>Mʏ GɪᴛHᴜʙ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴꜱ Sᴜᴍᴍᴀʀʏ</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pooryafayazi&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
     </td>
