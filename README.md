@@ -168,6 +168,6 @@
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://activity-graph-kappa.vercel.app/graph?username=pooryafayazi&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+    <img src="https://activity-graph-kappa.vercel.app/graph?username=pooryafayazi&bg_color=151515&&color=ffffff&line=FB4362&point=FB8C00&area=false&hide_border=false" border-radius="15">
 </div>
 
